@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various aspects of computer science and trying to explore as many things as I can.<br>🌱 Learning MERN stack along with DSA in C++<br>👯 I’m looking to collaborate on any projects involving analytics and creativity.<br>💬 Ask me about Mathematics, Computer Science and Chess(PS: Would be delighted to have you as my opponent)<br>📫 How to reach me: Contact me at dhavalbhimani14@gmail.com and will definitely have a chat.<br>⚡ Fun fact: I’m stil a college brad.
+🔭 I’m currently working on various aspects of computer science and trying to explore as many things as I can.<br>🌱 Learning MERN stack along with DSA in C/C++<br>👯 I’m looking to collaborate on any projects involving analytics and creativity.<br>💬 Ask me about Mathematics, Computer Science and Chess(PS: Would be delighted to have you as my opponent)<br>📫 How to reach me: Contact me at dhavalbhimani14@gmail.com and will definitely have a chat.<br>⚡ Fun fact: I’m stil a college brad.
 
 
 # 💻 Tech Stack:
