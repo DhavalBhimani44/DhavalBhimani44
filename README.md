@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhaval Bhimani</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate AWS and DevOps enthusiast from India</h3>
 
 - 🔭 I’m currently working on **various aspects of computer science and trying to explore as many things as I can.**
 
-- 🌱 I’m currently learning **Next.js, Three.js, GSAP, Backend Development.**
+- 🌱 I’m currently learning **Docker, Jenkins, Terraform, AWS, Kubernetes.**
 
 - 👨‍💻 All of my projects are available at [https://dhaval-bhimani-portfolio.vercel.app/](https://dhaval-bhimani-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://dhaval-bhimani-portfolio.vercel.app/blog](https://dhaval-bhimani-portfolio.vercel.app/blog)
-
 - 📫 How to reach me **dhavalbhimani14@gmail.com**
 
-- ⚡ Fun fact: **I’m stil a college brad.**
+- ⚡ Fun fact: **I’m stil a college brat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
